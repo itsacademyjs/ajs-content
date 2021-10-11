@@ -63,8 +63,6 @@
     * Creating Cells
     * Cells That Span Multiple Columns
     * Cells That Span Multiple Rows
-    * Creating a Table
-    * Spliting the tables into Head, Body, and Foot
     * Nested Tables
     * Adding Caption to a Table
 
