@@ -68,19 +68,14 @@
     * Nested Tables
     * Adding Caption to a Table
 
-7.  Accepting Input using Forms
+7. Accepting Input using Forms
     * Understanding Forms
-    * The Action Attribute
-    * The Method Attribute
     * Accepting Single-Line Text Input
     * Accepting Multi-Line Text Input
     * Accepting Passwords
     * Working with Radio Buttons
     * Working with Check Boxes
     * Working with Select Boxes
-    * Accepting Color Inputs
-    * Submitting Forms
-    * Accepting File Inputs
     * Creating Labels for Controls
     * Structuring Form with Field Sets
     * Tabbing Order

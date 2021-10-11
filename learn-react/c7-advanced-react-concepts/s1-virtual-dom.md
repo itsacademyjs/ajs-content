@@ -1,0 +1,2 @@
+
+The virtual DOM is a programming concept where the virtual representation of the UI is kept in memory and synced with the real DOM. The virtual DOM allows libraries such as React to abstract attribute manipulation, event handling, state management, and modifying the DOM. The syncing is done by a library such as ReactDOM and is called reconciliation.
