@@ -1,0 +1,70 @@
+In the previous chapter, you learnt that individual members of a list can also be lists themselves.
+
+In the same way, a cell in a table can have text, images, video, audio, and any other valid HTML tag. So a cell can also have a table! This brings us to Nested Tables. Here is an example of how a nested table is created.
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML Table</title>
+    </head>
+<body>
+<table border="1" width="100%">
+    <tr>
+        <td>
+            <table border="1" width="100%">
+                <tr>
+                    <th>Name</th>
+                    <th>Salary</th>
+                </tr>
+                <tr>
+                    <td>Ramesh Raman</td>
+                    <td>5000</td>
+                </tr>
+                <tr>
+                    <td>Shabbir Hussein</td>
+                    <td>7000</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+
+```
+The above code snippet produces the following output:
+
+## Output
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Table</title>
+</head>
+<body>
+<table border="1" width="100%">
+<tr>
+<td>
+<table border="1" width="100%">
+<tr>
+<th>Name</th>
+<th>Value</th>
+</tr>
+<tr>
+<td>Item 1</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Item 2</td>
+<td>7000</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+---

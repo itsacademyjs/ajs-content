@@ -1,0 +1,52 @@
+The `<dl>` HTML element represents a description list. 
+
+The element encloses a list of groups of terms (specified using the `<dt>` element) and descriptions (provided by `<dd>` elements). You can think of these as key-value pairs.
+
+Common uses for this element are to implement a glossary or to display metadata.
+
+Here is an example of using a definition list to render the metadata of a Godzilla:
+
+```html
+<dl>
+  <div>
+    <dt>Name</dt>
+    <dd>Godzilla</dd>
+  </div>
+  <div>
+    <dt>Born</dt>
+    <dd>1952</dd>
+  </div>
+  <div>
+    <dt>Birthplace</dt>
+    <dd>Japan</dd>
+  </div>
+  <div>
+    <dt>Color</dt>
+    <dd>Green</dd>
+  </div>
+</dl>
+```
+
+## 0utput
+---
+<dl>
+  <div>
+    <dt>Name</dt>
+    <dd>Godzilla</dd>
+  </div>
+  <div>
+    <dt>Born</dt>
+    <dd>1952</dd>
+  </div>
+  <div>
+    <dt>Birthplace</dt>
+    <dd>Japan</dd>
+  </div>
+  <div>
+    <dt>Color</dt>
+    <dd>Green</dd>
+  </div>
+</dl>
+
+---
+

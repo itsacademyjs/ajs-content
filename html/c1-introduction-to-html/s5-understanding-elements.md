@@ -1,0 +1,30 @@
+An HTML page is basically a collection of HTML elements. There are many types of HTML elements such as `p`, `img`, `div`, and `span`. You can use these elements to structure information such as lists, paragraphs, quotes, links, embed images, create forms, and so on. 
+
+An HTML element is made up of opening tag, attributes, children, and closing tag.
+
+An opening tag is wrapped within angle brackets and specifies the name of the element. Browsers do not display the HTML tags, but use them to interpret the content of the page. Tags like `p`, `span`, and `div` provide information about content. Tags like `img` and `audio` introduce new content into the document. We will learn more about tags as we progress through the course. Example: <p>
+
+A closing tag is wrapped within angle brackets, specifies the name of the element, and includes a forward slash. Example: </p>
+
+```html
+<html>
+    <head>
+        <title>My First HTML Page</title>
+    </head>
+    <body>
+        <p>Hello, AcademyJS!</p>
+    </body>
+</html>
+```
+
+An HTML document describes a tree data structure. Each element forms a node in the tree.
+
+An HTML document is basically a collection of HTML elements.
+
+An element consists: opening tag, attributes, children, and
+the closing tag.
+
+The opening tag tells which element we are working with
+specify the name of the element.
+
+The closing tag tells where the element ends.

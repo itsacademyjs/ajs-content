@@ -1,0 +1,17 @@
+Think about everything you have ever read in your entire life. All structured texts, including the one you are reading right now are paragraphs of text that are segregated using heading. This is true whether you are reading a college magazine, a newspaper or even a blog post.
+
+Structured content makes large amounts of information easier to process because it's organized. It also makes the reading experience easier and more enjoyable.
+
+In HTML, each paragraph has to be wrapped in a `<p>` element, as shown below. This is where you'd have all your text.
+
+```html
+<p>I am a paragraph, oh yes I am.</p>
+```
+
+Headings on the other hand can be wrapped using the header element as shown below.
+
+```html
+<h1>I am the head here. Follow my orders, you!</h1>
+```
+
+There are six heading elements: `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, and `<h6>`. Each element represents a different level of content in the document; `<h1>` represents the main heading, `<h2>` represents subheadings, `<h3>` represents sub-subheadings, and so on.

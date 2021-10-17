@@ -1,0 +1,12 @@
+ARIA stands for Accessible Rich Internet Applications. It is a set of attributes that improve the accessibility of a website to help people with disabilities. ARIA features really shine on web applications developed with JavaScript.
+
+ARIA make interactions with your HTML more accessible with things like form hints, error messages, live content update, JavaScript widgets and more.
+
+Please note, most of the widgets the ARIA had were later incorporated into HTML5. It is recommended that developers use the semantic HTML elements instead of using ARIA. This is because if you'd use ARIA, you would be essentially just mimicking the same behavior that your HTML5 supported browser has.
+
+Now that we have that out of our way, let's look at a few ARIA examples (assuming you are a dinasour using HTML 4).
+
+The ARIA attribute specification is split up into 3 different types of attributes - roles, states and properties.
+
+Roles describe widgets, for example, a `div` that acts as a button might be given `role = tabButton` where as a `div` that changes on a click of that `div` may be given a role of `role = tabPanel`.
+

@@ -1,0 +1,13 @@
+The anchor tag also let's you scroll to a specific part of the page using the section's ID. Here is an example of a anchor element which links to the `h2` element under it.
+
+```html
+<!-- <a> element links to the section below -->
+<p>
+<a href="#Section_further_down">
+  Jump to the heading below
+</a>
+</p>
+
+<!-- Heading to link to -->
+<h2 id="Section_further_down">Section further down</h2>
+```
