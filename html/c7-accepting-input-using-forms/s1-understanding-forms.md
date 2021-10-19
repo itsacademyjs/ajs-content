@@ -1,0 +1,37 @@
+So far you have learnt how to display text, images, video, audio, tables and lists in your HTML document. 
+
+But you might also have situations where your HTML document requires some amount of interactivity - meaning you might want to take information from to user as opposed to giving information to the user.
+
+That's where forms come in.
+
+The `<form>` element represents a section in your HTML document that contains interactive controls required for submitting user information.
+
+Here is an example of a simple form that takes the user's name and email address:
+
+```html
+<form action="" method="get" class="form-example">
+  <div class="form-example">
+    <label for="name">Enter your name: </label>
+    <input type="text" name="name" id="name" required>
+  </div>
+  <div class="form-example">
+    <label for="email">Enter your email: </label>
+    <input type="email" name="email" id="email" required>
+  </div>
+  <div class="form-example">
+    <input type="submit" value="Subscribe!">
+  </div>
+</form>
+```
+
+As you can see from the above example, forms can contain one or more `<input>` elements.
+
+The `<input>` HTML element is used to create interactive controls inside your forms.
+
+A wide variety of types of input data and control widgets are available.
+
+The `<input>` element is very powerful due to the sheer number of combinations of input types and attributes. We will learn more about these different types of input in the coming sections.
+
+Until HTML4, forms were just dumb fields. This means they performed no validation of their own. Validations had to be done server-side and had to be replicated on the client machine using some kind of JavaScript to give the user a seamless experience. This is very counter-intuitive because forms are some the most common features of a browser, so you'd think browser come with built-in validations for the most common types of form input.
+
+Well, you guessed right! HTML5 comes with built-in validations for the most commons input types.

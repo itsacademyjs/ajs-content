@@ -1,5 +1,3 @@
-# The History of HTML
-
 The very first version of HTML was made by Tim Berners-Lee, the very same person who invented the World Wide Web at CERN. HTML was first described in the small document called "HTML Tags", which was published on the internet by Tim in late 1991. It described 18 elements which made up the first version of HTML. Since then, several newer and better versions of HTML have been created.
 
 In the turn of the millenium, in December of 1999, HTML 4.01 was unveiled, which would later become the most widely used version of HTML throughout the 2000s.

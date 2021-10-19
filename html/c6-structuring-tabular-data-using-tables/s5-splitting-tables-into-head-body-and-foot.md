@@ -1,0 +1,89 @@
+Tables in HTML can have three parts:
+* The Table Head
+* The Table Body
+* The Table Foot
+
+The table head and table body are very similar - since they are essentially a single cell of data that might provide any additional information about the table.
+
+The body of the table contains all the actual data the table is supposed to show.
+
+You can create these parts of the table using the following HTML tags:
+* `<thead>`
+* `<tbody>`
+* `<tfoot>`
+
+Here is an example of a table that has all three parts:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table</title>
+</head>
+<body>
+<table border="1" width="100%">
+<thead>
+    <tr>
+        <td colspan="4">
+            This is the head of the table   
+        </td>
+    </tr>
+</thead>
+<tfoot>
+    <tr>
+        <td colspan="4">
+            This is the foot of the table
+        </td>
+    </tr>
+</tfoot>
+<tbody>
+    <tr>
+        <td>Cell 1</td>
+        <td>Cell 2</td>
+        <td>Cell 3</td>
+        <td>Cell 4</td>
+    </tr>
+</tbody>
+</table>
+</body>
+</html>
+```
+
+Please note! Your table may have a single or several `<tbody>` elements, but it is important that the `<thead>` and `<tfoot>` elements come before the group of `<tbody>` tags.
+
+## Output
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Table</title>
+</head>
+<body>
+<table border="1" width="100%">
+<thead>
+    <tr>
+        <td colspan="4">
+            This is the head of the table   
+        </td>
+    </tr>
+</thead>
+<tfoot>
+    <tr>
+        <td colspan="4">
+            This is the foot of the table
+        </td>
+    </tr>
+</tfoot>
+<tbody>
+    <tr>
+        <td>Cell 1</td>
+        <td>Cell 2</td>
+        <td>Cell 3</td>
+        <td>Cell 4</td>
+    </tr>
+</tbody>
+</table>
+</body>
+</html>
+
+---

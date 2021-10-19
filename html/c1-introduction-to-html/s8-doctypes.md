@@ -1,12 +1,10 @@
-# Doctypes
-
 A doctype is basically an instruction that informs the browser about the kind of markup language your web page is written in. 
 
 According the HTML specifications, it is very important that your HTML documents have the doctype declaration to ensure that your web page is displayed the way you intended it to be displayed.
 
 It is case-insensitive and should be written on the top of the document as shown below:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   

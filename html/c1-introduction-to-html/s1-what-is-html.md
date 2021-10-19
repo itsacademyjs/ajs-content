@@ -1,5 +1,3 @@
-# What is HTML?
-
 HTML is a markup language for creating web pages (also referred as documents) that are meant to be viewed on a browser. It stands for Hypertext Markup Language.
 
 Originally, HTML allowed you to describe what your web page looked like. However, newer standards like HTML5 recommend using HTML for describing the semantic structure of a web page. In other words, HTML should be used to structure the information on a web page, rather than styling it.

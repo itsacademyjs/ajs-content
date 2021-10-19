@@ -1,13 +1,10 @@
-# Block Level and Inline Elements
-
-
 In HTML, elements are categorized as either block-level elements or inline-level elements.
 
 A block-level element occupies 100% width of the parent element. Its height is equal to its content. Further, the browser adds a newline before and after the block. These are the default styles for a block-level element, but you can modify them using CSS.
 
 To visualize a block-level element, open the following document in your browser:
 
-```
+```html
 <html>
  <head>
    <title>Visualizing Block-Level Element</title>
@@ -24,8 +21,7 @@ Block-level elements can appear only inside the `body` element. You cannot use i
 
 An inline-level element on the other hand occupies both the width and the height equal to its content. It does not start a newline. Again, these are the default styles for an inline-level element, but you can modify them using CSS.
 
-Input:
-```
+```html
 <html>
  <head>
    <title>Visualizing Inline-Level Element</title>

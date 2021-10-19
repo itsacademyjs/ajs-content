@@ -1,0 +1,63 @@
+The `<ol>` HTML element represents an ordered list of items — typically rendered as a numbered list.
+
+Typically, ordered list items display with a preceding marker, such as a number or letter.
+
+The `<ol>` and `<ul>` elements may nest as deeply as desired, alternating between `<ol>` and `<ul>` however you like.
+
+The `<ol>` and `<ul>` elements both represent a list of items. The difference is with the `<ol>` element, the order is meaningful. For example:
+
+```html
+<ol>
+  <li>Fee</li>
+  <li>Fi</li>
+  <li>Fo</li>
+  <li>Fum</li>
+</ol>
+```
+The above snippet will render a list that looks like this - 
+
+<ol>
+  <li>Fee</li>
+  <li>Fi</li>
+  <li>Fo</li>
+  <li>Fum</li>
+</ol>
+
+---
+You can also switch to roman numerals as shown
+
+```html
+<ol type="i">
+  <li>Introduction</li>
+  <li>List of Greivances</li>
+  <li>Conclusion</li>
+</ol>
+```
+Output: 
+
+<ol type="i">
+  <li>Introduction</li>
+  <li>List of Greivances</li>
+  <li>Conclusion</li>
+</ol>
+
+---
+
+
+Ordered lists also allows you to start from any point in the list as shown below:
+
+```html
+<ol start="4">
+  <li>Speedwalk Stu</li>
+  <li>Saunterin’ Sam</li>
+  <li>Slowpoke Rodriguez</li>
+</ol>
+```
+
+Output:
+<ol start="4">
+  <li>Speedwalk Stu</li>
+  <li>Saunterin’ Sam</li>
+  <li>Slowpoke Rodriguez</li>
+</ol>
+
