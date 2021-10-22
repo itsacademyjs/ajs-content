@@ -8,6 +8,7 @@
     * Understanding Elements
     * Specifying Attributes to Elements
     * Improving Accessibility using ARIA
+    * **HTML Quiz 1**
     * Doctypes
     * The HTML Element
     * The Head Element
@@ -16,6 +17,8 @@
     * The Division Element
     * Understanding Block and Inline Elements
     * Writing Comments
+    * **HTML Exercise 1**
+
 
 2. Texts
     * White Space and Flow
@@ -28,6 +31,8 @@
     * Code
     * Using Character Entities for Special Characters
     * Other Common Content Element
+    * **HTML Quiz 2**
+
 
 3. Links and Navigation
     * Understanding URLs
@@ -35,27 +40,32 @@
     * Creating Hyperlinks with the Anchor Element
     * Linking to a Specific Part of a Page
     * Targeting New Windows with Hyperlinks
+    * **HTML Quiz 3**
     * Linking to Email Addresses and Telelphone Numbers
     * The Navigation Element
     * The Section Element
     * The Footer Element
+    * **HTML Exercise 2**
 
 4. Images, Audio, and Video
     * Understanding Image Formats
     * Embedding Images: The Image Embed Element
     * Image Accessibility with the Alternative Attribute
     * Using Images as Links
-    * Keeping File Sizes Small
+    * **HTML Quiz 4**
     * Understanding Video Formats
     * Embedding Videos
     * Understanding Audio Formats
     * Embedding Audio
+    * **HTML Project 1A - Create A Tribute Page**
 
 5. Structuring Sequential Data using Lists
     * Unordered Lists
     * Ordered Lists
     * Definition Lists
     * Nesting Lists
+    * **HTML Quiz 5**
+
 
 6. Structuring Tabular Data using Tables
     * Understanding Tables
@@ -63,9 +73,11 @@
     * Creating Cells
     * Cells That Span Multiple Columns
     * Cells That Span Multiple Rows
+    * **HTML Quiz 6**
     * Spliting the tables into Head, Body, and Foot
     * Nested Tables
     * Adding Caption to a Table
+    * **HTML Project 1B - Extend Tribute Page**
 
 7. Accepting Input using Forms
     * Understanding Forms
@@ -77,6 +89,8 @@
     * Working with Select Boxes
     * Creating Labels for Controls
     * Structuring Form with Field Sets
+    * **HTML Quiz 7**
     * Tabbing Order
     * Access Keys
     * Disabled and Read-Only Controls
+    * **HTML Project 2 - Create a Survey Page**

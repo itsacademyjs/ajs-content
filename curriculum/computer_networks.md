@@ -18,24 +18,24 @@
     * The Application Layer
 
 3. Delivery the Data
- * Addressing, Routing, and Multiplexing
- * The IP Address
- * Internet Routing Architecture
- * The Routing Table
- * Address Resolution
- * Protocols
- * Ports
- * Sockets
+    * Addressing, Routing, and Multiplexing
+    * The IP Address
+    * Internet Routing Architecture
+    * The Routing Table
+    * Address Resolution
+    * Protocols
+    * Ports
+    * Sockets
 
 4. Network Services
- * Names and Addresses
- * The Host Table
-* The Domain Name System
-* Electronic Mail
-* The World Wide Web
-* Streaming Audio and Video
-* Content Delivery
+    * Names and Addresses
+    * The Host Table
+    * The Domain Name System
+    * Electronic Mail
+    * The World Wide Web
+    * Streaming Audio and Video
+    * Content Delivery
 
 5. The Internet Transport Protocols
-  * Introduction to UDP
-  * Introduction to TCP
+    * Introduction to UDP
+    * Introduction to TCP

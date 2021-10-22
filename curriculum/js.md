@@ -11,6 +11,9 @@
     * Understanding Statements
     * Understanding Simple Statements
     * Understanding Compound Statements
+    * **JavaScript Quiz 1**
+    * **JavaScript Exercise 1**
+
 
 2. Variables, Values, and Data Types
     * Understanding Variables
@@ -24,6 +27,8 @@
     * Working with Texts
     * Working with Boolean Values
     * Working with Null and Undefined Values
+    * **JavaScript Quiz 2**
+    * **JavaScript Exercise 2**
 
 3. Operators, Operands, and Expressions
     * Working with Operators
@@ -49,6 +54,8 @@
     * Understanding the Logical OR Operator
     * Understanding the Logical NOT Operator
     * Combining Operators
+    * **JavaScript Quiz 3**
+    * **JavaScript Exercise 3**
 
 4. Conditional Statements
     * Understanding Conditional Statements
@@ -59,6 +66,8 @@
     * Working with Switch Statements
     * Breaking Out of Switch Statements
     * The Default Clause
+    * **JavaScript Quiz 4**
+    * **JavaScript Exercise 4**
 
 5. Iterative Statements
    * What is a Loop?
@@ -67,6 +76,8 @@
    * Using the Continue Statement
    * Working with the Do-While Statement
    * Working with the For Statement
+   * **JavaScript Quiz 5**
+   * **JavaScript Exercise 5**
 
 6. Functions
     * Understanding Functions
@@ -79,6 +90,8 @@
     * Understanding Functions That Return Value
     * Understanding Functions as Values
     * Working with Closures
+    * **JavaScript Quiz 6**
+    * **JavaScript Exercise 6**
 
 7. Objects
    * Understanding Objects
@@ -91,11 +104,16 @@
    * Serializing Objects
    * Deserializing Objects
    * Understanding "this" Reference
+   * **JavaScript Quiz 7**
+   * **JavaScript Exercise 7**
+   * **JavaScript Project 1 - Build a Martian Robot**
+
 
 8. Prototypes
     * Understanding the [[Prototype]] Internal Property
     * Working with Constructor Functions
     * Understanding Prototypal Inheritance
+    * **JavaScript Quiz 8**
 
 9.  Arrays
    * Understanding Arrays
@@ -109,6 +127,8 @@
    * The Array Type
    * Sparse Arrays
    * Strings as Arrays
+   * **JavaScript Quiz 9**
+   * **JavaScript Exercise 9**
 
 10. Exceptions
     * Understanding Exceptions
@@ -117,3 +137,6 @@
     * Throwing Exceptions
     * Using the Finally Clause
     * Creating Your Own Exceptions
+    * **JavaScript Quiz 10**
+    * **JavaScript Exercise 10**
+    * **JavaScript Project 2 - Build a Vampire Logger**
