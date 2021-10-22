@@ -78,7 +78,7 @@
     * Running Queries
     * SQL Parameters
 
-8	Spring MVC
+8. Spring MVC
     * Spring 3.0 features
     * Introduction to Spring MVC
     * Handler Mapping
@@ -88,7 +88,7 @@
     * Views
     * Form tags
 
-9	Spring ORM	 
+9. Spring ORM	 
     * Spring Integration with ORM
     * Integrating with Hibernate
     * Creating and Injecting Hibernate Session Factory
